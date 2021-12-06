@@ -10,4 +10,4 @@ public:
 		this->right_node = right_node;
 		this->parent = parent;
 	}
-};
+};sfs

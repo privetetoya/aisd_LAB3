@@ -81,16 +81,6 @@ public:
 
 	}
 
-
-	/*
-	1. bool contains(int); ++
-	2. void insert(int); ++
-	3. void remove(int); ++
-	4. Iterator create_dft_iterator(); ++
-	5. Iterator create_bft_iterator() ++
-	*/
-
-
 	Node* parent_search(int tmp) {
 
 		Node* ending_parent = root_of_heap;
@@ -294,12 +284,6 @@ public:
 			return false;
 		}
 	}
-
-
-
-
-
-
 };
 
 
