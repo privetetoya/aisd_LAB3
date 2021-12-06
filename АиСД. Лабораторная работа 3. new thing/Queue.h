@@ -46,16 +46,10 @@ private:
 
 			return head->data;
 		}
-
-
-
-
 	};
 	Queue_For_elements* head, * last;
 
 public:
-
-
 	Queue() {
 		head = NULL;
 		last = NULL;

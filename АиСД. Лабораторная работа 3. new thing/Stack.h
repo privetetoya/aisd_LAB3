@@ -3,16 +3,6 @@
 #include <iostream>
 #include "Node.h"
 
-
-/*  ++Stack()
-	++push(item)
-	++pop()
-	++peek()
-	++isEmpty()
-	++size(
-	*/
-
-
 class Stack {
 private:
 
